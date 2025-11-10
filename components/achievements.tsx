@@ -6,8 +6,8 @@ export default function Achievements() {
   const achievements = [
     {
       icon: Shield,
-      title: "Cyber Security Associate",
-      description: "Certified in cybersecurity fundamentals and best practices",
+      title: "CEH",
+      description: "Working towards Certified Ethical Hacker certification",
     },
     {
       icon: Award,
@@ -21,9 +21,11 @@ export default function Achievements() {
     },
     {
       icon: Target,
-      title: "CEH - In Progress",
-      description: "Working towards Certified Ethical Hacker certification",
+      title: "Cyber Security Associate",
+      description: "Certified in cybersecurity fundamentals and best practices",
+      
     },
+
   ]
 
   return (
