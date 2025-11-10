@@ -24,7 +24,7 @@ export default function Contact() {
     },
     {
       icon: Twitter,
-      label: "Instagram",
+      label: "Twitter",
       href: "https://x.com/DivyaRana890505",
       text: "Follow on Twitter",
     },
